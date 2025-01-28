@@ -2,7 +2,7 @@
 
 🎓 **AI/ML Enthusiast | Full-Stack Developer | Researcher**  
 
-I’m an undergraduate student at **Vellore Institute of Technology, Andhra Pradesh**, specializing in **Artificial Intelligence and Machine Learning**. I love pushing the boundaries of **Deep Learning, NLP, and Computer Vision**, and I’m always working on exciting projects that merge **AI with real-world impact**.  
+I’m an undergraduate student at **Vellore Institute of Technology, India**, specializing in **Artificial Intelligence and Machine Learning**. I love pushing the boundaries of **Deep Learning, NLP, and Computer Vision**, and I’m always working on exciting projects that merge **AI with real-world impact**.  
 
 💡 **What I Do?**  
 - 🚀 Researching **AI for Medical Applications**, **Explainable AI**, and **Handwriting Style Synthesis**  
